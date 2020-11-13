@@ -55,3 +55,17 @@
 
 //Тернарное выражение
 //isReady ? console.log('все готово!') : console.log ('все не готово....')
+
+// 7 булевая логика
+// https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Логические_операторы
+// console.log(true && false)
+// console.log(true || false)
+// console.log(!true)
+
+// 8 Функции
+// function calculateAge(year) {
+//     return 2020 - year
+// }
+//
+// console.log(calculateAge(1992))
+
