@@ -29,11 +29,29 @@
 // console.log(typeof age)
 
 // 5 Приоритет операторов
-const fullAge = 29
-const birthYear = 1991
-const currentYear = 2020
-
-const isFullAge = currentYear - birthYear >= fullAge
-console.log(isFullAge)
+// const fullAge = 29
+// const birthYear = 1991
+// const currentYear = 2020
+//
+// const isFullAge = currentYear - birthYear >= fullAge
+// console.log(isFullAge)
 
 // 6 условные операторы
+// const courseStatus = 'pending'
+// if (courseStatus === 'ready') {
+//     console.log('Курс уже готов и его можно проходить')
+// } else if (courseStatus === 'pending') {
+//     console.log('Курс пока находится в процессе разработки')
+// } else {
+//     console.log('Курс не получился')
+// }
+
+//const isReady = true
+// if (isReady) {
+//     console.log('Все готово!')
+// } else {
+//     console.log('Все не готово...')
+// }
+
+//Тернарное выражение
+//isReady ? console.log('все готово!') : console.log ('все не готово....')
