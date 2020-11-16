@@ -71,7 +71,7 @@
 
 // 9 Массивы
 // https://youtu.be/Bluxbh9CaQ0?t=5336
-const cars = ['Мазда', 'Мерседес', 'Форд']
+// const cars = ['Мазда', 'Мерседес', 'Форд']
 // console.log(cars[0])
 //console.log(cars.length)
 
@@ -79,3 +79,14 @@ const cars = ['Мазда', 'Мерседес', 'Форд']
 // console.log(cars)
 
 // 10 Циклы
+// const cars = ['Мазда', 'Мерседес', 'Форд', 'porsche']
+// for (let i = 0; i < cars.length; i++) {
+//     const car = cars[i]
+//     console.log(car)
+// }
+
+// for (let car of cars){
+//     console.log(car)
+// }
+
+// 11 Объекты
