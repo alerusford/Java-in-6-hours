@@ -69,3 +69,13 @@
 //
 // console.log(calculateAge(1992))
 
+// 9 Массивы
+// https://youtu.be/Bluxbh9CaQ0?t=5336
+const cars = ['Мазда', 'Мерседес', 'Форд']
+// console.log(cars[0])
+//console.log(cars.length)
+
+// cars[0]='porsche'
+// console.log(cars)
+
+// 10 Циклы
