@@ -22,7 +22,7 @@
 // const stringInt = '40'
 // const stringFloat = '40.42'
 //
-// console.log(Number.parseInt(stringInt) + 2) // парсим строку в число (еще можно Math.trunc)
+// console.log(Number.parseInt(stringInt) + 2) // парсим строку в число
 // console.log(parseInt(stringInt) + 2)
 // console.log(Number(stringInt) + 2)
 // console.log(+stringInt + 2)
@@ -34,7 +34,7 @@
 
 // console.log(0.4 + 0.2) // 0.6
 // console.log(+(0.4 + 0.2).toFixed(1))
-// console.log(parseFloat((0.4 + 0.2).toFixed(1)))
+// console.log(parseFloat((0.4 + 0.2).toFixed(1))) //еще можно Math.trunc
 
 // 2 BigInt
 //console.log(900719925474099199999n - 90071992547409919999n)
