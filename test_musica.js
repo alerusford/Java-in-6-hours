@@ -4,3 +4,8 @@
 // calc(5).plus(1).plus(1).res(); // 7
 
 
+// function calc {
+//
+// }
+// let result;
+// const minus = result - 2
