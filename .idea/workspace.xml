@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eee03fd9-afe9-4d37-bef6-d64a6c21d31f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS in 6 hours.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS in 6 hours.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_functions_old.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +33,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kEBpDU0yEBYUA07Q7Katc2IBQJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,14 +60,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../alerusford.github.io" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/3rmotors" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\alerusford.github.io\3rmotors" />
+      <recent name="C:\Users\Alexandr\Desktop\Mailfit_Тест\start\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS in 6 hours/resume/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index2.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -62,7 +110,18 @@
       <workItem from="1605511642077" duration="15356000" />
       <workItem from="1605544719965" duration="1348000" />
       <workItem from="1605546105412" duration="2106000" />
-      <workItem from="1605594708647" duration="11685000" />
+      <workItem from="1605594708647" duration="21003000" />
+      <workItem from="1605808623376" duration="80031000" />
+      <workItem from="1606114648931" duration="5028000" />
+      <workItem from="1606133239781" duration="5303000" />
+      <workItem from="1606225864900" duration="6000" />
+      <workItem from="1606740854321" duration="508000" />
+      <workItem from="1606746634517" duration="1448000" />
+      <workItem from="1606754157877" duration="1410000" />
+      <workItem from="1606755626865" duration="830000" />
+      <workItem from="1606826336150" duration="851000" />
+      <workItem from="1607005874022" duration="54000" />
+      <workItem from="1607075686803" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="делаем это порфолио главной страницей">
       <created>1605610214646</created>
@@ -78,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605610849140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="массивы - повторяем еще раз">
+      <created>1605617716105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605617716105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,29 +165,66 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="делаем это порфолио главной страницей" />
     <MESSAGE value="до сих пор - хз" />
-    <option name="LAST_COMMIT_MESSAGE" value="до сих пор - хз" />
+    <MESSAGE value="массивы - повторяем еще раз" />
+    <option name="LAST_COMMIT_MESSAGE" value="массивы - повторяем еще раз" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605545726874">
+    <state x="464" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606208159883">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1605545726874" />
-    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1605544736724">
+    <state x="464" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1606208159883" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606067523101">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1605544736724" />
-    <state x="134" y="7" key="SettingsEditor" timestamp="1605546242256">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1606067523101" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605906206165">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605906206165" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1606755911126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1606755911126" />
+    <state width="256" height="247" key="Git.Branch.Popup" timestamp="1605942913836">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="256" height="247" key="Git.Branch.Popup/0.0.1366.768@0.0.1366.768" timestamp="1605942913836" />
+    <state x="507" y="303" key="Github.CreateGistDialog" timestamp="1605941827719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="507" y="303" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1605941827719" />
+    <state x="270" y="16" key="SettingsEditor" timestamp="1606043241633">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605257825853" />
-    <state x="134" y="7" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1605546242256" />
+    <state x="270" y="16" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1606043241633" />
     <state x="528" y="81" key="VCS.ChangeListViewerDialog" timestamp="1605545414866">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="528" y="81" key="VCS.ChangeListViewerDialog/0.0.1366.768@0.0.1366.768" timestamp="1605545414866" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1605610853592">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1605617724186">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605610853592" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605617724186" />
+    <state x="281" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605950981629">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="281" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1605950981629" />
+    <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1606210410343">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1606210410343" />
+    <state x="450" y="272" key="git4idea.ui.GitResetDialog" timestamp="1606754747941">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="450" y="272" key="git4idea.ui.GitResetDialog/0.0.1366.768@0.0.1366.768" timestamp="1606754747941" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1605903967881">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1605903967881" />
+    <state x="404" y="292" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606754582875">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="404" y="292" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.768@0.0.1366.768" timestamp="1606754582875" />
   </component>
 </project>

@@ -8,6 +8,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="menu2" />
+    <orderEntry type="module" module-name="resume v.2" />
     <orderEntry type="module" module-name="alerusford.github.io" />
+    <orderEntry type="module" module-name="3rmotors" />
   </component>
 </module>
